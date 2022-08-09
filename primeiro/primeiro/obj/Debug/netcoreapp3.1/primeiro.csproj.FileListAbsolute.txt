@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.exe
+C:\temp\ws_vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.deps.json
+C:\temp\ws_vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.runtimeconfig.json
+C:\temp\ws_vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.runtimeconfig.dev.json
+C:\temp\ws_vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.dll
+C:\temp\ws_vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.pdb
+C:\temp\ws_vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.AssemblyInfo.cs
+C:\temp\ws_vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.dll
+C:\temp\ws_vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.pdb
+C:\temp\ws_vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.genruntimeconfig.cache
