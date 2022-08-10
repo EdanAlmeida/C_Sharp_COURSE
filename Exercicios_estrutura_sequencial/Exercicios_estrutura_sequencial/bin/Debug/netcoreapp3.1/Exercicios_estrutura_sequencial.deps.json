@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicios_estrutura_sequencial/1.0.0": {
+        "runtime": {
+          "Exercicios_estrutura_sequencial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicios_estrutura_sequencial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

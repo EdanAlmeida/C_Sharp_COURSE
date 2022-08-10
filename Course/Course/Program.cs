@@ -7,7 +7,26 @@ namespace Course
     {
         static void Main(string[] args)
         {
-          
+            Console.WriteLine("Entre com seu nome completo: ");
+            string nomeCompleto = Console.ReadLine();
+            Console.WriteLine(nomeCompleto);
+
+            Console.WriteLine("Quantos quartos tem sua casa? ");
+            int numQuartos = int.Parse(Console.ReadLine());
+            Console.WriteLine(numQuartos);
+
+            Console.WriteLine("Entre com p preço de um produto: ");
+            double precoProduto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine(precoProduto.ToString("F2", CultureInfo.InvariantCulture));
+
+            Console.WriteLine("Entre com seu ultimo nome, idade e altua: ");
+            string[] vet = Console.ReadLine().Split(' ');
+            string lastName = vet[0];
+            int idade = int.Parse(vet[1]);
+            double altura = double.Parse(vet[2]);
+
+            Console.Write(lastName + " " + idade + " " + altura.ToString("F2", CultureInfo.InvariantCulture));
+
         }
     }
 }
@@ -156,3 +175,25 @@ string p3 = vet[2];
 Console.Write(p1);
 Console.Write(p2);
 Console.Write(p3);*/
+
+
+/*int n1 = int.Parse(Console.ReadLine());
+            char ch = char.Parse(Console.ReadLine());
+            double n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            string[] vet = Console.ReadLine().Split(' ');
+            string nome = vet[0];
+            char sexo = char.Parse(vet[1]);
+            int idade = int.Parse(vet[2]);
+            double altura = double.Parse(vet[3], CultureInfo.InvariantCulture);
+
+
+            Console.WriteLine("Voce digitou: ");
+            Console.WriteLine(n1);
+            Console.WriteLine(ch);
+            Console.WriteLine(n2.ToString("F2", CultureInfo.InvariantCulture));
+
+            Console.WriteLine(nome);
+            Console.WriteLine(sexo);
+            Console.WriteLine(idade);
+            Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));*/
