@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\bin\Debug\netcoreapp3.1\Estrutura_Condicional.exe
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\bin\Debug\netcoreapp3.1\Estrutura_Condicional.deps.json
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\bin\Debug\netcoreapp3.1\Estrutura_Condicional.runtimeconfig.json
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\bin\Debug\netcoreapp3.1\Estrutura_Condicional.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\bin\Debug\netcoreapp3.1\Estrutura_Condicional.dll
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\bin\Debug\netcoreapp3.1\Estrutura_Condicional.pdb
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\obj\Debug\netcoreapp3.1\Estrutura_Condicional.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\obj\Debug\netcoreapp3.1\Estrutura_Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\obj\Debug\netcoreapp3.1\Estrutura_Condicional.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\obj\Debug\netcoreapp3.1\Estrutura_Condicional.AssemblyInfo.cs
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\obj\Debug\netcoreapp3.1\Estrutura_Condicional.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\obj\Debug\netcoreapp3.1\Estrutura_Condicional.dll
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\obj\Debug\netcoreapp3.1\Estrutura_Condicional.pdb
+C:\temp\ws_vs2019\Estrutura_Condicional\Estrutura_Condicional\obj\Debug\netcoreapp3.1\Estrutura_Condicional.genruntimeconfig.cache
