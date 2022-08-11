@@ -6,6 +6,7 @@ namespace Estrutura_Condicional
     {
         static void Main(string[] args)
         {
+            //Encadeamento
             Console.WriteLine("Qual a hora atual? ");
             int hora = int.Parse(Console.ReadLine());
 
@@ -25,6 +26,9 @@ namespace Estrutura_Condicional
             {
                 Console.WriteLine("Hora Invalida!");
             }
+
+            //OBS -> Escopo de uma variável -> região do programa onde ela pode ser referenciada.
+            // Variável -> não pode ser usada se não for iniciada.
 
         }
     }
