@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\bin\Debug\netcoreapp3.1\functions_syntax.exe
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\bin\Debug\netcoreapp3.1\functions_syntax.deps.json
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\bin\Debug\netcoreapp3.1\functions_syntax.runtimeconfig.json
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\bin\Debug\netcoreapp3.1\functions_syntax.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\bin\Debug\netcoreapp3.1\functions_syntax.dll
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\bin\Debug\netcoreapp3.1\functions_syntax.pdb
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\obj\Debug\netcoreapp3.1\functions_syntax.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\obj\Debug\netcoreapp3.1\functions_syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\obj\Debug\netcoreapp3.1\functions_syntax.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\obj\Debug\netcoreapp3.1\functions_syntax.AssemblyInfo.cs
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\obj\Debug\netcoreapp3.1\functions_syntax.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\obj\Debug\netcoreapp3.1\functions_syntax.dll
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\obj\Debug\netcoreapp3.1\functions_syntax.pdb
+C:\temp\ws_vs2019\Functions_Syntax\functions_syntax\obj\Debug\netcoreapp3.1\functions_syntax.genruntimeconfig.cache

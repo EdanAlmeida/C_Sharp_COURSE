@@ -1,0 +1,13 @@
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\bin\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.exe
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\bin\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.deps.json
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\bin\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.runtimeconfig.json
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\bin\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\bin\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.dll
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\bin\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.pdb
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\obj\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\obj\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\obj\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.AssemblyInfo.cs
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\obj\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\obj\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.dll
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\obj\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.pdb
+C:\temp\ws_vs2019\Estrutura_Repetitiva_While\Estrutura_Repetitiva_While\obj\Debug\netcoreapp3.1\Estrutura_Repetitiva_While.genruntimeconfig.cache

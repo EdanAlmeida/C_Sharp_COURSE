@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\bin\Debug\netcoreapp3.1\Exercicios_While.exe
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\bin\Debug\netcoreapp3.1\Exercicios_While.deps.json
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\bin\Debug\netcoreapp3.1\Exercicios_While.runtimeconfig.json
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\bin\Debug\netcoreapp3.1\Exercicios_While.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\bin\Debug\netcoreapp3.1\Exercicios_While.dll
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\bin\Debug\netcoreapp3.1\Exercicios_While.pdb
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\obj\Debug\netcoreapp3.1\Exercicios_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\obj\Debug\netcoreapp3.1\Exercicios_While.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\obj\Debug\netcoreapp3.1\Exercicios_While.AssemblyInfo.cs
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\obj\Debug\netcoreapp3.1\Exercicios_While.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\obj\Debug\netcoreapp3.1\Exercicios_While.dll
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\obj\Debug\netcoreapp3.1\Exercicios_While.pdb
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\obj\Debug\netcoreapp3.1\Exercicios_While.genruntimeconfig.cache
+C:\temp\ws_vs2019\Exercicios_While\Exercicios_While\obj\Debug\netcoreapp3.1\Exercicios_While.csproj.AssemblyReference.cache
