@@ -7,7 +7,29 @@ namespace Classes_Atributos_Metodos_MembrosEstaticos
     {
         static void Main(string[] args)
         {
-            //Problema Salário
+            //Problema Aluno/Nota
+            Aluno student1 = new Aluno();
+            Console.Write("Nome do Aluno: ");
+            student1.Nome = Console.ReadLine();
+            Console.WriteLine("Digite as três notas do aluno: ");
+            student1.Nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            student1.Nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            student1.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine("NOTA Final: " + student1.NotaFinal().ToString("F2", CultureInfo.InvariantCulture));
+
+            if (student1.Aprovado())
+            {
+                Console.WriteLine("APROVADO! ");
+            }
+            else
+            {
+                Console.WriteLine("REPROVADO! \nFALTARAM " + student1.NotaRestante() + " PONTOS");
+            }
+
+
+
+            /*//Problema Salário
             Funcionario f1 = new Funcionario();
 
             Console.WriteLine("Informe os Dados do Funcionário: ");
@@ -27,7 +49,7 @@ namespace Classes_Atributos_Metodos_MembrosEstaticos
             f1.AumentarSalario(pctgm);
 
             Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + f1);
+            Console.WriteLine("Dados atualizados: " + f1);*/
 
         }
     }
