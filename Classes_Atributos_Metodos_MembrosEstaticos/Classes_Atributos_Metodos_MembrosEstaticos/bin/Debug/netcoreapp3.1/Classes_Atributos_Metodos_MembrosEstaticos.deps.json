@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Classes_Atributos_Metodos_MembrosEstaticos/1.0.0": {
+        "runtime": {
+          "Classes_Atributos_Metodos_MembrosEstaticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classes_Atributos_Metodos_MembrosEstaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

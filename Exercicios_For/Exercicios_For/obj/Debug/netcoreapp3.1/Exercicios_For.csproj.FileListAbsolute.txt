@@ -11,3 +11,4 @@ C:\temp\ws_vs2019\Exercicios_For\Exercicios_For\obj\Debug\netcoreapp3.1\Exercici
 C:\temp\ws_vs2019\Exercicios_For\Exercicios_For\obj\Debug\netcoreapp3.1\Exercicios_For.dll
 C:\temp\ws_vs2019\Exercicios_For\Exercicios_For\obj\Debug\netcoreapp3.1\Exercicios_For.pdb
 C:\temp\ws_vs2019\Exercicios_For\Exercicios_For\obj\Debug\netcoreapp3.1\Exercicios_For.genruntimeconfig.cache
+C:\temp\ws_vs2019\Exercicios_For\Exercicios_For\obj\Debug\netcoreapp3.1\Exercicios_For.csproj.AssemblyReference.cache
