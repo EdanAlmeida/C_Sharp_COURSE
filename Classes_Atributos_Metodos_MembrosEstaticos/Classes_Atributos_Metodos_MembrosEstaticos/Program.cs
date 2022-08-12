@@ -7,34 +7,27 @@ namespace Classes_Atributos_Metodos_MembrosEstaticos
     {
         static void Main(string[] args)
         {
-            Produto p = new Produto();
-            //Problema Estoque
-            Console.WriteLine("Entre os dados do produto: ");
+            //Problema Salário
+            Funcionario f1 = new Funcionario();
+
+            Console.WriteLine("Informe os Dados do Funcionário: ");
             Console.Write("Nome: ");
-            p.Nome = Console.ReadLine();
-            Console.Write("Preço: R$");
-            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            p.Quantidade = int.Parse(Console.ReadLine());
+            f1.Nome = Console.ReadLine();
+            Console.Write("Salário Bruto: ");
+            f1.SalarioBruto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Imposto: ");
+            f1.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine();
-            Console.WriteLine("Dados do Produto: " + p);
-            Console.WriteLine();
-
-            Console.Write("Digite o número de produtos a ser adicionado no estoque: ");
-            int qte = int.Parse(Console.ReadLine());
-            p.AdicionarProdutos(qte);
+            Console.WriteLine(f1);
 
             Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
+            Console.WriteLine("Digite a porcentagem para aumentar o salário: ");
+            double pctgm = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            f1.AumentarSalario(pctgm);
 
             Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser removido no estoque: ");
-            qte = int.Parse(Console.ReadLine());
-            p.RemoverProdutos(qte);
-
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
+            Console.WriteLine("Dados atualizados: " + f1);
 
         }
     }
@@ -212,4 +205,51 @@ quantidade no estoque). Em seguida:
 estoque)
 • Realizar uma entrada no estoque e mostrar novamente os dados do produto
 • Realizar uma saída no estoque e mostrar novamente os dados do produto
+ */
+
+
+/*
+            //Problema Estoque
+            Produto p = new Produto();
+            Console.WriteLine("Entre os dados do produto: ");
+            Console.Write("Nome: ");
+            p.Nome = Console.ReadLine();
+            Console.Write("Preço: R$");
+            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Quantidade no estoque: ");
+            p.Quantidade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine();
+            Console.WriteLine("Dados do Produto: " + p);
+            Console.WriteLine();
+
+            Console.Write("Digite o número de produtos a ser adicionado no estoque: ");
+            int qte = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qte);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removido no estoque: ");
+            qte = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qte);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
+ */
+
+/*
+             //Problema Retangulo
+            Retangulo ret = new Retangulo();
+
+            Console.WriteLine("Informe os dados do retangulo: ");
+            Console.Write("Largura: ");
+            ret.b = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Altura: ");
+            ret.h = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine("Dados do retangulo: ");
+            Console.WriteLine(ret);
  */
