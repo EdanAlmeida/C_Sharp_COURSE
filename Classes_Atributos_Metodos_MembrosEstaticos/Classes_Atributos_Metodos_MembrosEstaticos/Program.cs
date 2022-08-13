@@ -7,49 +7,19 @@ namespace Classes_Atributos_Metodos_MembrosEstaticos
     {
         static void Main(string[] args)
         {
-            //Problema Aluno/Nota
-            Aluno student1 = new Aluno();
-            Console.Write("Nome do Aluno: ");
-            student1.Nome = Console.ReadLine();
-            Console.WriteLine("Digite as três notas do aluno: ");
-            student1.Nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            student1.Nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            student1.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            //Exercício conversão de R$ para $ - utilizando Classe Utilitária:
 
-            Console.WriteLine("NOTA Final: " + student1.NotaFinal().ToString("F2", CultureInfo.InvariantCulture));
+            Console.Write("Qual é a cotação do dolar? ");
+            double cotDolar = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Quantos dólares você vai comprar? ");
+            double quantDolares = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            if (student1.Aprovado())
-            {
-                Console.WriteLine("APROVADO! ");
-            }
-            else
-            {
-                Console.WriteLine("REPROVADO! \nFALTARAM " + student1.NotaRestante() + " PONTOS");
-            }
-
-
-
-            /*//Problema Salário
-            Funcionario f1 = new Funcionario();
-
-            Console.WriteLine("Informe os Dados do Funcionário: ");
-            Console.Write("Nome: ");
-            f1.Nome = Console.ReadLine();
-            Console.Write("Salário Bruto: ");
-            f1.SalarioBruto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Imposto: ");
-            f1.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double valorReais = ConversorDeMoeda.ConversorDolarIof(cotDolar, quantDolares);
 
             Console.WriteLine();
-            Console.WriteLine(f1);
+            Console.WriteLine("Valor a ser pago: R$ " + valorReais.ToString("F2", CultureInfo.InvariantCulture));
 
-            Console.WriteLine();
-            Console.WriteLine("Digite a porcentagem para aumentar o salário: ");
-            double pctgm = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            f1.AumentarSalario(pctgm);
-
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + f1);*/
+           
 
         }
     }
@@ -275,3 +245,123 @@ estoque)
             Console.WriteLine("Dados do retangulo: ");
             Console.WriteLine(ret);
  */
+
+
+/*
+             // Problema Salário
+             Funcionario f1 = new Funcionario();
+
+            Console.WriteLine("Informe os Dados do Funcionário: ");
+            Console.Write("Nome: ");
+            f1.Nome = Console.ReadLine();
+            Console.Write("Salário Bruto: ");
+            f1.SalarioBruto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Imposto: ");
+            f1.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine();
+            Console.WriteLine(f1);
+
+            Console.WriteLine();
+            Console.WriteLine("Digite a porcentagem para aumentar o salário: ");
+            double pctgm = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            f1.AumentarSalario(pctgm);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + f1);
+            */
+
+
+/*
+  //Problema Aluno/Nota
+            Aluno student1 = new Aluno();
+            Console.Write("Nome do Aluno: ");
+            student1.Nome = Console.ReadLine();
+            Console.WriteLine("Digite as três notas do aluno: ");
+            student1.Nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            student1.Nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            student1.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine("NOTA Final: " + student1.NotaFinal().ToString("F2", CultureInfo.InvariantCulture));
+
+            if (student1.Aprovado())
+            {
+                Console.WriteLine("APROVADO! ");
+            }
+            else
+            {
+                Console.WriteLine("REPROVADO! \nFALTARAM " + student1.NotaRestante() + " PONTOS");
+            }
+ */
+
+
+/*
+    class Program
+    {
+        static double Pi = 3.14;
+        static void Main(string[] args)
+        {
+            //Membro estáticos - Resolução na própria classe do programa (static void Main(string[] args){}):
+
+            Console.Write("Entre o valor do raio: ");
+            double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double circ = Circunferencia(raio);
+            double vol = Volume(raio);
+
+            Console.WriteLine();
+            Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Volume: " + vol.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Valor de Pi: " + Pi.ToString("F2", CultureInfo.InvariantCulture));
+
+        }
+
+        static double Circunferencia (double r)
+        {
+            return 2.0 * Pi * r;
+        }
+
+        static double Volume(double r)
+        {
+            return 4.0 / 3.0 * Pi * Math.Pow(r, 3.0);
+        }
+    }
+ 
+ */
+
+/*
+            //Membro estáticos - Resolução criando uma classe 'Calculadora' - instanciação de objeto:
+
+            Calculadora calc = new Calculadora();
+
+            Console.Write("Entre o valor do raio: ");
+            double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double circ = calc.Circunferencia(raio);
+            double vol = calc.Volume(raio);
+
+            Console.WriteLine();
+            Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Volume: " + vol.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Valor de Pi: " + calc.Pi.ToString("F2", CultureInfo.InvariantCulture));
+
+ */
+
+
+/*
+           //Membro estáticos - Resolução criando uma classe 'Calculadora' - operações estáticas (sem objeto):
+           //FAz muito mais sentido, dado que as operações independem da criação de um objeto para instanciação
+
+           Console.Write("Entre o valor do raio: ");
+           double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+           double circ = Calculadora.Circunferencia(raio);
+           double vol = Calculadora.Volume(raio);
+
+           Console.WriteLine();
+           Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
+           Console.WriteLine("Volume: " + vol.ToString("F2", CultureInfo.InvariantCulture));
+           Console.WriteLine("Valor de Pi: " + Calculadora.Pi.ToString("F2", CultureInfo.InvariantCulture));
+           
+ */
+
