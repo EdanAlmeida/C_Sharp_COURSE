@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores_This_SobreCarga_Encapsulamento", "Construtores_This_SobreCarga_Encapsulamento\Construtores_This_SobreCarga_Encapsulamento.csproj", "{81995C2D-48E2-45AB-8D87-20E0C04F580A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81995C2D-48E2-45AB-8D87-20E0C04F580A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81995C2D-48E2-45AB-8D87-20E0C04F580A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81995C2D-48E2-45AB-8D87-20E0C04F580A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81995C2D-48E2-45AB-8D87-20E0C04F580A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0F581E-35F6-41AB-9929-F7D77C4E6C64}
+	EndGlobalSection
+EndGlobal

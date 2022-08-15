@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\bin\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.exe
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\bin\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.deps.json
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\bin\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.runtimeconfig.json
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\bin\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\bin\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.dll
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\bin\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.pdb
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\obj\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\obj\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\obj\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\obj\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.AssemblyInfo.cs
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\obj\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\obj\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.dll
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\obj\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.pdb
+C:\temp\ws_vs2019\Exercicio_Conta_Bancaria\Exercicio_Conta_Bancaria\obj\Debug\netcoreapp3.1\Exercicio_Conta_Bancaria.genruntimeconfig.cache
