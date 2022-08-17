@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\bin\Debug\netcoreapp3.1\Employee_Activity.exe
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\bin\Debug\netcoreapp3.1\Employee_Activity.deps.json
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\bin\Debug\netcoreapp3.1\Employee_Activity.runtimeconfig.json
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\bin\Debug\netcoreapp3.1\Employee_Activity.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\bin\Debug\netcoreapp3.1\Employee_Activity.dll
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\bin\Debug\netcoreapp3.1\Employee_Activity.pdb
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\obj\Debug\netcoreapp3.1\Employee_Activity.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\obj\Debug\netcoreapp3.1\Employee_Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\obj\Debug\netcoreapp3.1\Employee_Activity.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\obj\Debug\netcoreapp3.1\Employee_Activity.AssemblyInfo.cs
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\obj\Debug\netcoreapp3.1\Employee_Activity.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\obj\Debug\netcoreapp3.1\Employee_Activity.dll
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\obj\Debug\netcoreapp3.1\Employee_Activity.pdb
+C:\temp\ws_vs2019\Employee_Activity\Employee_Activity\obj\Debug\netcoreapp3.1\Employee_Activity.genruntimeconfig.cache

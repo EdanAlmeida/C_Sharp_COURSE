@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\bin\Debug\netcoreapp3.1\Modificadores_Ref_Out.exe
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\bin\Debug\netcoreapp3.1\Modificadores_Ref_Out.deps.json
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\bin\Debug\netcoreapp3.1\Modificadores_Ref_Out.runtimeconfig.json
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\bin\Debug\netcoreapp3.1\Modificadores_Ref_Out.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\bin\Debug\netcoreapp3.1\Modificadores_Ref_Out.dll
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\bin\Debug\netcoreapp3.1\Modificadores_Ref_Out.pdb
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\obj\Debug\netcoreapp3.1\Modificadores_Ref_Out.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\obj\Debug\netcoreapp3.1\Modificadores_Ref_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\obj\Debug\netcoreapp3.1\Modificadores_Ref_Out.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\obj\Debug\netcoreapp3.1\Modificadores_Ref_Out.AssemblyInfo.cs
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\obj\Debug\netcoreapp3.1\Modificadores_Ref_Out.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\obj\Debug\netcoreapp3.1\Modificadores_Ref_Out.dll
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\obj\Debug\netcoreapp3.1\Modificadores_Ref_Out.pdb
+C:\temp\ws_vs2019\Modificadores_Ref_Out\Modificadores_Ref_Out\obj\Debug\netcoreapp3.1\Modificadores_Ref_Out.genruntimeconfig.cache
