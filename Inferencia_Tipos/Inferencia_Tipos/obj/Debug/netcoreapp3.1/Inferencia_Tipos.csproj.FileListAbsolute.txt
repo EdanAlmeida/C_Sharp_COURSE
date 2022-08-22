@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\bin\Debug\netcoreapp3.1\Inferencia_Tipos.exe
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\bin\Debug\netcoreapp3.1\Inferencia_Tipos.deps.json
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\bin\Debug\netcoreapp3.1\Inferencia_Tipos.runtimeconfig.json
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\bin\Debug\netcoreapp3.1\Inferencia_Tipos.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\bin\Debug\netcoreapp3.1\Inferencia_Tipos.dll
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\bin\Debug\netcoreapp3.1\Inferencia_Tipos.pdb
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\obj\Debug\netcoreapp3.1\Inferencia_Tipos.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\obj\Debug\netcoreapp3.1\Inferencia_Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\obj\Debug\netcoreapp3.1\Inferencia_Tipos.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\obj\Debug\netcoreapp3.1\Inferencia_Tipos.AssemblyInfo.cs
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\obj\Debug\netcoreapp3.1\Inferencia_Tipos.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\obj\Debug\netcoreapp3.1\Inferencia_Tipos.dll
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\obj\Debug\netcoreapp3.1\Inferencia_Tipos.pdb
+C:\temp\ws_vs2019\Inferencia_Tipos\Inferencia_Tipos\obj\Debug\netcoreapp3.1\Inferencia_Tipos.genruntimeconfig.cache
