@@ -15,7 +15,7 @@ namespace Exercicio_Conta_Bancaria
             Titular = titular;
         }
 
-        //Melhor usar o argumento 'depositoInicial' para deixar a responsabilidade para o método de depósito
+        //Melhor usar o argumento 'deposito Inicial' para deixar a responsabilidade para o método de depósito
         //Isso facilita a manutenção do código e deixa a lógica mais bem feita
         //Lógica de depósito encapsulada no método
         public Conta(int numero, string titular, double depositoInicial) : this(numero, titular)
@@ -33,7 +33,6 @@ namespace Exercicio_Conta_Bancaria
             Saldo -= quantia + 5.0;
         }
 
-
         public override string ToString()
         {
             return "Conta "
@@ -43,6 +42,5 @@ namespace Exercicio_Conta_Bancaria
                 + ", Saldo $ "
                 + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
-
     }
 }

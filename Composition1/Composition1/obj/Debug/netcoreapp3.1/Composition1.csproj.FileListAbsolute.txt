@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Composition1\Composition1\obj\Debug\netcoreapp3.1\Composition1.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\Composition1\Composition1\obj\Debug\netcoreapp3.1\Composition1.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Composition1\Composition1\obj\Debug\netcoreapp3.1\Composition1.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Composition1\Composition1\obj\Debug\netcoreapp3.1\Composition1.AssemblyInfo.cs
+C:\temp\ws_vs2019\Composition1\Composition1\obj\Debug\netcoreapp3.1\Composition1.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Composition1\Composition1\bin\Debug\netcoreapp3.1\Composition1.exe
+C:\temp\ws_vs2019\Composition1\Composition1\bin\Debug\netcoreapp3.1\Composition1.deps.json
+C:\temp\ws_vs2019\Composition1\Composition1\bin\Debug\netcoreapp3.1\Composition1.runtimeconfig.json
+C:\temp\ws_vs2019\Composition1\Composition1\bin\Debug\netcoreapp3.1\Composition1.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Composition1\Composition1\bin\Debug\netcoreapp3.1\Composition1.dll
+C:\temp\ws_vs2019\Composition1\Composition1\bin\Debug\netcoreapp3.1\Composition1.pdb
+C:\temp\ws_vs2019\Composition1\Composition1\obj\Debug\netcoreapp3.1\Composition1.dll
+C:\temp\ws_vs2019\Composition1\Composition1\obj\Debug\netcoreapp3.1\Composition1.pdb
+C:\temp\ws_vs2019\Composition1\Composition1\obj\Debug\netcoreapp3.1\Composition1.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\ws_vs2019\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional.csproj": {}
+    "C:\\temp\\ws_vs2019\\Exercicios_Estrutura_Condicional\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional.csproj": {}
   },
   "projects": {
-    "C:\\temp\\ws_vs2019\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional.csproj": {
+    "C:\\temp\\ws_vs2019\\Exercicios_Estrutura_Condicional\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\ws_vs2019\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional.csproj",
+        "projectUniqueName": "C:\\temp\\ws_vs2019\\Exercicios_Estrutura_Condicional\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional.csproj",
         "projectName": "exercicios_estrutura_condicional",
-        "projectPath": "C:\\temp\\ws_vs2019\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional.csproj",
+        "projectPath": "C:\\temp\\ws_vs2019\\Exercicios_Estrutura_Condicional\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional.csproj",
         "packagesPath": "C:\\Users\\edlui\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\ws_vs2019\\exercicios_estrutura_condicional\\exercicios_estrutura_condicional\\obj\\",
+        "outputPath": "C:\\temp\\ws_vs2019\\Exercicios_Estrutura_Condicional\\exercicios_estrutura_condicional\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

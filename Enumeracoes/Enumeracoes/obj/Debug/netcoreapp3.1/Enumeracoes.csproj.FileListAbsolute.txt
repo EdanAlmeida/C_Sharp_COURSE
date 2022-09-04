@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfo.cs
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.exe
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.deps.json
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.json
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.dev.json
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.dll
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.pdb
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.dll
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.pdb
+C:\temp\ws_vs2019\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.genruntimeconfig.cache
