@@ -1,0 +1,14 @@
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\bin\Debug\netcoreapp3.1\OrderActivity.exe
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\bin\Debug\netcoreapp3.1\OrderActivity.deps.json
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\bin\Debug\netcoreapp3.1\OrderActivity.runtimeconfig.json
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\bin\Debug\netcoreapp3.1\OrderActivity.runtimeconfig.dev.json
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\bin\Debug\netcoreapp3.1\OrderActivity.dll
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\bin\Debug\netcoreapp3.1\OrderActivity.pdb
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\obj\Debug\netcoreapp3.1\OrderActivity.csproj.AssemblyReference.cache
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\obj\Debug\netcoreapp3.1\OrderActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\obj\Debug\netcoreapp3.1\OrderActivity.AssemblyInfoInputs.cache
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\obj\Debug\netcoreapp3.1\OrderActivity.AssemblyInfo.cs
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\obj\Debug\netcoreapp3.1\OrderActivity.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\obj\Debug\netcoreapp3.1\OrderActivity.dll
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\obj\Debug\netcoreapp3.1\OrderActivity.pdb
+C:\temp\ws_vs2019\OrderActivity\OrderActivity\obj\Debug\netcoreapp3.1\OrderActivity.genruntimeconfig.cache
