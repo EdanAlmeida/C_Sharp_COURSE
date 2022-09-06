@@ -6,10 +6,10 @@ namespace Composition1.Entities
     class Worker
     {
         public string Name { get; set; }
-        public WorkerLevel Level { get; set; } //ligado ao enum Department
+        public WorkerLevel Level { get; set; } //ligado ao enum WrkerLevel
         public double BaseSalary { get; set; }
         public Department Department { get; set; } //composição para ligar os objetos trabalhador + departamento
-        public List<HourContract> Contracts { get; set; } = new List<HourContract>(); //instanciada
+        public List<HourContract> Contracts { get; set; } = new List<HourContract>(); //instanciada evitar que seja nula
         //respeitando o nome do diagrama
         //usamos lista pq pode ter + de 1 contrato
 
